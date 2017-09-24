@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Tanakorn Leesatapornwongsa</title>
+    <link>http://tanakorn.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Tanakorn Leesatapornwongsa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Tanakorn Leesatapornwongsa</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>PBSE: A Robust Path-Based Speculative Execution for Degraded-Network Tail Tolerance in Data-Parallel Frameworks</title>
+      <link>http://tanakorn.github.io/publication/pbse/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://tanakorn.github.io/publication/pbse/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scalability Bugs: When 100-Node Testing is Not Enough </title>
+      <link>http://tanakorn.github.io/publication/sck/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://tanakorn.github.io/publication/sck/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TaxDC: A Taxonomy of Concurrency Bugs in Datacenter Distributed Systems</title>
+      <link>http://tanakorn.github.io/publication/taxdc/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tanakorn.github.io/publication/taxdc/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SAMC: Semantic-Aware Model Checking for Fast Discovery of Deep Bugs in Cloud Systems</title>
+      <link>http://tanakorn.github.io/publication/samc/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://tanakorn.github.io/publication/samc/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Case for Drill-Ready Cloud Computing</title>
+      <link>http://tanakorn.github.io/publication/drill/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://tanakorn.github.io/publication/drill/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What Bugs Live in the Cloud? A Study of 3000&#43; Issues in Cloud Systems</title>
+      <link>http://tanakorn.github.io/publication/cbs/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://tanakorn.github.io/publication/cbs/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Limplock: Understanding the Impact of Limpware on Scale-Out Cloud Systems</title>
+      <link>http://tanakorn.github.io/publication/limplock/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://tanakorn.github.io/publication/limplock/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
