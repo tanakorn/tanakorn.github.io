@@ -549,6 +549,10 @@ article {
   color: #151515;
 }
 
+.pub-list-item .pub-authors strong {
+  text-decoration: underline;
+}
+
 .pub-list-item .pub-publication {
   color: #090;
   font-size: 1rem;
