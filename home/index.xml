@@ -2,13 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Tanakorn Leesatapornwongsa</title>
-    <link>http://tanakorn.github.io/home/</link>
+    <link>https://tanakorn.github.io/home/</link>
     <description>Recent content in Homes on Tanakorn Leesatapornwongsa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Tanakorn Leesatapornwongsa</copyright>
     <lastBuildDate>Sat, 23 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://tanakorn.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://tanakorn.github.io/home/about/</link>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanakorn.github.io/home/about/</guid>
+      <description>Intro I am a researcher working at Samsung Research America in Smart System Group. My research interests cover distributed systems, cloud computing, and IoT.
+Previously, I did my PhD at University of Chicago. I worked with Prof. Haryadi Gunawi in UCARE group. My thesis focused on improving the dependability of cloud-scale distributed systems. My expertise on this topic involves distributed concurrency bugs combating and scalability checking.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://tanakorn.github.io/home/publications_selected/</link>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://tanakorn.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tanakorn.github.io/home/contact/</link>
+      <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanakorn.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
