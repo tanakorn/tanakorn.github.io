@@ -6,11 +6,38 @@
     <description>Recent content in 1 on Tanakorn Leesatapornwongsa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Tanakorn Leesatapornwongsa</copyright>
-    <lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2019 Tanakorn Leesatapornwongsa</copyright>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tanakorn.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Transactuations: Where Transactions Meet the Physical World</title>
+      <link>https://tanakorn.github.io/publication/transactuation/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanakorn.github.io/publication/transactuation/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>ScaleCheck: A Single-Machine Approach for Discovering Scalability Bugs in Large Distributed Systems</title>
+      <link>https://tanakorn.github.io/publication/sck-fast/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanakorn.github.io/publication/sck-fast/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>FlyMC: Highly Scalable Testing of Complex Interleavings in Distributed Systems</title>
+      <link>https://tanakorn.github.io/publication/flymc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanakorn.github.io/publication/flymc/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
     
     <item>
       <title>Scalability Bugs: When 100-Node Testing is Not Enough </title>

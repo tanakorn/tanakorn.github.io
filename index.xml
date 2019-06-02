@@ -6,9 +6,39 @@
     <description>Recent content in Tanakorn Leesatapornwongsa on Tanakorn Leesatapornwongsa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Tanakorn Leesatapornwongsa</copyright>
+    <copyright>&amp;copy; 2019 Tanakorn Leesatapornwongsa</copyright>
     <lastBuildDate>Sat, 23 Sep 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Transactuations: Where Transactions Meet the Physical World</title>
+      <link>https://tanakorn.github.io/publication/transactuation/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanakorn.github.io/publication/transactuation/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ScaleCheck: A Single-Machine Approach for Discovering Scalability Bugs in Large Distributed Systems</title>
+      <link>https://tanakorn.github.io/publication/sck-fast/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanakorn.github.io/publication/sck-fast/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FlyMC: Highly Scalable Testing of Complex Interleavings in Distributed Systems</title>
+      <link>https://tanakorn.github.io/publication/flymc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanakorn.github.io/publication/flymc/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Scalability Bugs: When 100-Node Testing is Not Enough </title>
@@ -535,7 +565,9 @@ Below is an automatically generated list of all my blog posts!
       <pubDate>Sun, 17 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://tanakorn.github.io/post/writing-markdown-latex/</guid>
-      <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.&lt;/p&gt;
+      <description>&lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34; target=&#34;_blank&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting.&lt;/p&gt;
+
+&lt;p&gt;This article gives an overview of the most common formatting options.&lt;/p&gt;
 
 &lt;h2&gt;Table of Contents&lt;/h2&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -989,36 +1021,6 @@ With Jekyll, something that looked like&lt;/p&gt;
 &lt;h2 id=&#34;a-practical-example&#34;&gt;A practical example&lt;/h2&gt;
 
 &lt;p&gt;Alexandre Normand migrated his website from Jekyll to Hugo in less than a day. You can see all his changes by looking at this GitHub &lt;a href=&#34;https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610&#34; target=&#34;_blank&#34;&gt;diff&lt;/a&gt;. However, bear in mind that this example is &lt;strong&gt;not specific to the Academic theme nor does it use the latest version of Hugo&lt;/strong&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SAMC: Semantic-Aware Model Checking for Fast Discovery of Deep Bugs in Cloud Systems</title>
-      <link>https://tanakorn.github.io/publication/samc/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://tanakorn.github.io/publication/samc/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Case for Drill-Ready Cloud Computing</title>
-      <link>https://tanakorn.github.io/publication/drill/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://tanakorn.github.io/publication/drill/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What Bugs Live in the Cloud? A Study of 3000&#43; Issues in Cloud Systems</title>
-      <link>https://tanakorn.github.io/publication/cbs/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://tanakorn.github.io/publication/cbs/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
